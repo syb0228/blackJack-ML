@@ -1,5 +1,6 @@
 ### Blackjack With Monte-Carlo Control
 강화학습 BlackJack 프로젝트
+- 2020년 6월 프로젝트
 - 최적 Policy를 학습시킨 Agent를 사용하여, 블랙잭 게임을 시뮬레이션한 뒤 승률을 계산
 - Evaluation, Improvement를 optimal policy 파이를 구할 때까지 반복
 - Blackjack 학습 알고리즘
